@@ -59,3 +59,11 @@ The dataset consists of five JSON files:
 ## License Terms
 
 This project is part of the MSAAI program at the University of San Diego.  
+
+## S3 Bucket
+The JSON files for this project (as described above) have been loaded into an S3 bucket for processing. The bucket is located at [S3 Bucket](s3://yelp-aai540-group6/yelp-dataset/). 
+
+Additionally, the ARN for the bucket is [arn:aws:s3:::yelp-aai540-group6](arn:aws:s3:::yelp-aai540-group6).
+
+Permissions for the bucket have been made public via AWS Learner Labs.
+
