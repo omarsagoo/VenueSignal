@@ -232,14 +232,14 @@ Permissions for the bucket have been made public via AWS Learner Labs.
 
 ## Order of Notebooks in this Project.
 
-EDA
-AthenaTables
-DataLake
-FeatureStore
-BENCHMARK
-XGBoost
-ModelDeployment
-8 - ModelComparison
+1. EDA  
+2. AthenaTables  
+3. DataLake  
+4. FeatureStore  
+5. BENCHMARK  
+6. XGBoost  
+7. ModelDeployment  
+8. ModelComparison  
 
 ## Contributors
 <table>
