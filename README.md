@@ -230,6 +230,17 @@ Permissions for the bucket have been made public via AWS Learner Labs.
 | open_days_count            | int       | Number of days with defined hours       |
 | open_on_weekend            | boolean   | Indicates weekend availability          |
 
+## Order of Notebooks in this Project.
+
+1. EDA  
+2. AthenaTables  
+3. DataLake  
+4. FeatureStore  
+5. BENCHMARK  
+6. XGBoost  
+7. ModelDeployment  
+8. ModelComparison  
+
 ## Contributors
 <table>
   <tr>
