@@ -240,6 +240,7 @@ Permissions for the bucket have been made public via AWS Learner Labs.
 6. XGBoost  
 7. ModelDeployment  
 8. ModelComparison  
+9. CI/CD
 
 ## Contributors
 <table>
